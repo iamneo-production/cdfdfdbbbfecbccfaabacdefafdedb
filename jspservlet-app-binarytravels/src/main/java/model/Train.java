@@ -3,5 +3,8 @@ package model;
 import java.time.LocalDate;
 
 public class Train{
-	//Enter code here...	
+	private int noOfPersons;
+private String berth;
+private int rates;
+private LocalDate date;	
 }
